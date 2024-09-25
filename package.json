@@ -10,7 +10,7 @@
     "axios",
     "express",
     "multer",
-    "dotenv""
+    "dotenv"
   },
   "engines": {
     "node": ">=14.0.0"
