@@ -1,0 +1,20 @@
+{
+  "name": "gemini-api-chat",
+  "version": "1.0.0",
+  "description": "API to handle image upload and continuous conversation using Google Gemini API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "multer": "",
+    "dotenv": "^16.0.3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
