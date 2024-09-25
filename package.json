@@ -1,0 +1,13 @@
+{
+  "name": "gemini-api-project",
+  "version": "1.0.0",
+  "description": "A project to integrate with Google Gemini API using Generative AI SDK.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^1.0.0",
+    "dotenv": "^10.0.0"
+  }
+}
